@@ -9,7 +9,9 @@
   "app-info":[
     {
       "version":"1.0",
-      "url":"https://youtu.be/qOlkLTOa_Ig"
+      "url":"https://youtu.be/qOlkLTOa_Ig",
+      "yt_url":"https://youtu.be/qOlkLTOa_Ig"
+      
     }
              ]
 }
