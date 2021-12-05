@@ -1,1 +1,11 @@
 
+{
+  "server_details":[
+    {
+      "address":"localhost"
+    },
+    {"port":"8560"
+    }
+          ]
+  
+}
