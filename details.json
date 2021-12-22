@@ -1,9 +1,7 @@
 {
   "server_details":[
     {
-      "address":"localhost"
-    },
-    {"port":"8560"
+      "address":"192.168.1.4:3000"
     }
           ]
   
