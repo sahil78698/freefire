@@ -1,7 +1,7 @@
 {
   "server_details":[
     {
-      "address":"https://spy-app-admin-server.herokuapp.com/"
+      "address":"http://192.168.1.5:3000"
     }
           ]
   
