@@ -1,9 +1,9 @@
 {
-  "keys":[
+  "profiles":[
     {
-      "key":"hmm"
+      "name":"hmm"
     },
-    {"key":"sajjat"
+    {"name":"sajjat"
     }
           ],
   "app-info":[
