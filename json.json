@@ -2,10 +2,12 @@
   "profiles":[
     {
       "name":"Sahil",
+      "photo":"https://raw.githubusercontent.com/sahil78698/freefire/main/back.jpg",
       "projects":"20"
     },
     {"name":"Sajjat",
-      "projects":"6"
+     "photo":"https://raw.githubusercontent.com/sahil78698/freefire/main/back.jpg",
+     "projects":"6"
     }
           ],
   "app-info":[
