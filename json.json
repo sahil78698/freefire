@@ -10,6 +10,34 @@
      "projects":"6"
     }
           ],
+"projects":[
+    {
+      "Sahil":[
+    {
+      "photo":"https://raw.githubusercontent.com/sahil78698/freefire/main/back.jpg",
+      "title":"llllll"
+    },
+    {
+     "photo":"https://raw.githubusercontent.com/sahil78698/freefire/main/email.png",
+     "title":"Hii"
+    }
+          ],
+ "Sajjat":[
+    {
+      "photo":"https://raw.githubusercontent.com/sahil78698/freefire/main/back.jpg",
+      "title":"llllll"
+    },
+    {
+     "photo":"https://raw.githubusercontent.com/sahil78698/freefire/main/email.png",
+     "title":"Hii"
+    }
+          ]
+    },
+    {
+     "photo":"https://raw.githubusercontent.com/sahil78698/freefire/main/email.png",
+     "title":"Hii"
+    }
+          ],
   "app-info":[
     {
       "version":"1.0",
